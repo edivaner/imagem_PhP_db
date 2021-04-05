@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+}
+
+.cabecalho{
+    background-color: aquamarine;
+    color:black;
+    padding: 20px 100px;
+}
+
+.formulario{
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 520px;
+    height: 220px;
+    padding: 20px;
+}
+
+.formEsquerdo{
+    float: left;
+}
+
+.formulario label, input{
+    display: block;
+}
+
+.formulario label{
+    margin-top: 20px;
+}
+
+.foto input{
+    margin: 20px 0 0 40px;
+    display: inline;
+    border: 1px solid black;
+    height: 80px;
+    /* width: 80px; */
+}
+
+table{
+    margin: 20px auto;
+    height: 600px;
+    width: 560px;
+    text-align: center;
+}
+
+thead{
+    background-color: aquamarine;
+}
+
+.imagemPerfilFoto{
+    height: 60px;
+    width: 60px;
+}
